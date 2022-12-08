@@ -1,0 +1,34 @@
+P 1
+To analyse given webpages from user interface, functionality, and security perspective, and perform manual
+testing
+
+P 2
+To analyse given webpages from user interface,
+functionality, and security perspective, and perform manual
+testing
+
+P 3
+To study and perform sample tests using Test Link Testing tool.
+
+P 4
+To study and perform sample tests using JUNIT Test Tool.
+
+5
+To study and perform sample tests using Selenium Test Tool
+
+6
+To perform automated functional GUI testing using AutoIT
+
+7
+To study and perform sample tests using Apache JMeter Testing
+Tool
+
+8
+ To implement load testing method.
+
+
+9
+Regression Testing with Watir
+
+10
+: To demonstrate testing of a mobile application
